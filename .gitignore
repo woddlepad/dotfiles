@@ -1,0 +1,4 @@
+plugins/
+.DS_STORE
+kitty-themes/
+theme.conf
